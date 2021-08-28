@@ -1,1 +1,1 @@
-# gallery-for-shop
+Slide for web site using vanila JS
