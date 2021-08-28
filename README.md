@@ -1,1 +1,1 @@
-Slide for web site using vanila JS
+Slider, example of ala-trello, and one more slider for web site using vanila JS
